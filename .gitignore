@@ -5,3 +5,5 @@ db.sqlite3
 bloggy.db
 .DS_Store
 .idea/
+*.log
+.vagrant/
